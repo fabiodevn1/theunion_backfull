@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_home_main_section2s",
+  "info": {
+    "displayName": "MainSection2",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "Card": {
+      "displayName": "Cards - Section2",
+      "type": "component",
+      "repeatable": true,
+      "component": "home.cards-section2"
+    }
+  }
+}

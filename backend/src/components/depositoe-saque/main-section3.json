@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_depositoe_saque_main_section3s",
+  "info": {
+    "displayName": "MainSection3",
+    "icon": "calculator"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "observation": {
+      "type": "string"
+    }
+  }
+}

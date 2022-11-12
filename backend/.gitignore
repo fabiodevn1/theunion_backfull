@@ -1,0 +1,9 @@
+.env
+license.txt
+exports
+*.cache
+dist
+/node_modules
+build
+.strapi-updater.json
+yarn.lock

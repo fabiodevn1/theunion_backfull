@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_tutorial_cards",
+  "info": {
+    "displayName": "Cards"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

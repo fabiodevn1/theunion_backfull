@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_footer_cards",
+  "info": {
+    "displayName": "FooterCards",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "FooterLinks": {
+      "displayName": "FooterLinks",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.footer-links"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_page_footer_menus",
+  "info": {
+    "displayName": "FooterMenus",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "MenusLinkMain": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.menus"
+    }
+  }
+}

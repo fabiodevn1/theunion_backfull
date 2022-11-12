@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "glossarios",
+  "info": {
+    "singularName": "glossario",
+    "pluralName": "glossarios",
+    "displayName": "glossario"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner": {
+      "allowedTypes": [
+        "images",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "glossario": {
+      "displayName": "Glossario",
+      "type": "component",
+      "repeatable": true,
+      "component": "glossario.glossario"
+    },
+    "title": {
+      "type": "string"
+    },
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "description1": {
+      "type": "string"
+    },
+    "description2": {
+      "type": "string"
+    }
+  }
+}

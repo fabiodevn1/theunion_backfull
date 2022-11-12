@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_seja_um_agente_vantagens",
+  "info": {
+    "displayName": "Vantagens",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

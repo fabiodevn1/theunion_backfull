@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_depositoe_saque_main_section2s",
+  "info": {
+    "displayName": "MainSection2"
+  },
+  "options": {},
+  "attributes": {
+    "titlte": {
+      "type": "string",
+      "required": true
+    },
+    "card": {
+      "displayName": "Cards",
+      "type": "component",
+      "repeatable": true,
+      "component": "depositoe-saque.cards"
+    }
+  }
+}

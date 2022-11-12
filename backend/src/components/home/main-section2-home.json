@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_home_main_section2_homes",
+  "info": {
+    "displayName": "MainSection2 - Home"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

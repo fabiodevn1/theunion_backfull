@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_donkeysolver_vidos_section2s",
+  "info": {
+    "displayName": "VidosSection2"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

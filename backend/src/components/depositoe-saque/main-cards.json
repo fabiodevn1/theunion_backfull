@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_depositoe_saque_main_cards",
+  "info": {
+    "displayName": "MainCards"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

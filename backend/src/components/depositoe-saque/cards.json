@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_depositoe_saque_cards",
+  "info": {
+    "displayName": "Cards"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": false
+    },
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string",
+      "required": false
+    },
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

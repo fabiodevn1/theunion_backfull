@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_home_cards_section2s",
+  "info": {
+    "displayName": "Cards - Section2"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

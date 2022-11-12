@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_home_section_1_s",
+  "info": {
+    "displayName": "Section 1 "
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "titleCenter": {
+      "type": "string"
+    },
+    "Cards": {
+      "displayName": "CardsSection1",
+      "type": "component",
+      "repeatable": true,
+      "component": "home.cards-section1"
+    }
+  }
+}

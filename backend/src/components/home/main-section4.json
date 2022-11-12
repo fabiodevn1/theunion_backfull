@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_home_main_section4s",
+  "info": {
+    "displayName": "MainSection4",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "banner": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

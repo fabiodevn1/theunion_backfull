@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "glossarioreturns",
+  "info": {
+    "singularName": "glossarioreturn",
+    "pluralName": "glossarioreturns",
+    "displayName": "glossarioreturn",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "glossario": {
+      "type": "component",
+      "repeatable": true,
+      "component": "glossario.glossario"
+    }
+  }
+}

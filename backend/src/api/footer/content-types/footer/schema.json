@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "footers",
+  "info": {
+    "singularName": "footer",
+    "pluralName": "footers",
+    "displayName": "Footer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "copyright": {
+      "type": "string",
+      "required": true
+    },
+    "FooterCards": {
+      "displayName": "FooterCards",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.footer-cards"
+    }
+  }
+}

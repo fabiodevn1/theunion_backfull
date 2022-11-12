@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_home_main_section3s",
+  "info": {
+    "displayName": "MainSection3"
+  },
+  "options": {},
+  "attributes": {
+    "Banner": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": false
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "MediaIcons": {
+      "displayName": "AppIconsDowload",
+      "type": "component",
+      "repeatable": true,
+      "component": "home.app-icons-dowload"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_page_menus",
+  "info": {
+    "displayName": "menus",
+    "icon": "equals"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

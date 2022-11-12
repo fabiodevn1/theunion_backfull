@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_home_cards_section1s",
+  "info": {
+    "displayName": "CardsSection1",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

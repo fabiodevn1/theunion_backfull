@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_donkeysolver_main_section2s",
+  "info": {
+    "displayName": "MainSection2"
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "videos": {
+      "displayName": "VidosSection2",
+      "type": "component",
+      "repeatable": true,
+      "component": "donkeysolver.vidos-section2"
+    }
+  }
+}

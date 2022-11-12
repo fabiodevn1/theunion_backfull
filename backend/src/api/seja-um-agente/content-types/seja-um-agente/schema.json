@@ -1,0 +1,41 @@
+{
+  "kind": "singleType",
+  "collectionName": "seja_um_agentes",
+  "info": {
+    "singularName": "seja-um-agente",
+    "pluralName": "seja-um-agentes",
+    "displayName": "Seja um Agente"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "MainSection": {
+      "displayName": "MainSection",
+      "type": "component",
+      "repeatable": false,
+      "component": "seja-um-agente.main-section"
+    },
+    "vantagem": {
+      "displayName": "Vantagens",
+      "type": "component",
+      "repeatable": true,
+      "component": "seja-um-agente.vantagens"
+    },
+    "titleSection2": {
+      "type": "string"
+    }
+  }
+}

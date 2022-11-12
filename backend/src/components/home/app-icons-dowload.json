@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_home_app_icons_dowloads",
+  "info": {
+    "displayName": "AppIconsDowload"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

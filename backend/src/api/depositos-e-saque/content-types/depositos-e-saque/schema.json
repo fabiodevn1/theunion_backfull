@@ -1,0 +1,42 @@
+{
+  "kind": "singleType",
+  "collectionName": "depositos_e_saques",
+  "info": {
+    "singularName": "depositos-e-saque",
+    "pluralName": "depositos-e-saques",
+    "displayName": "Depositos e Saque"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banner": {
+      "allowedTypes": [
+        "images",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": false
+    },
+    "cards": {
+      "displayName": "MainCards",
+      "type": "component",
+      "repeatable": true,
+      "component": "depositoe-saque.main-cards"
+    },
+    "MainSection2": {
+      "displayName": "MainSection2",
+      "type": "component",
+      "repeatable": false,
+      "component": "depositoe-saque.main-section2"
+    },
+    "MainSection4": {
+      "displayName": "MainSection3",
+      "type": "component",
+      "repeatable": false,
+      "component": "depositoe-saque.main-section3"
+    }
+  }
+}

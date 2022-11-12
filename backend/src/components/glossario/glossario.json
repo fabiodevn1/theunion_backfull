@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_glossario_glossarios",
+  "info": {
+    "displayName": "Glossario"
+  },
+  "options": {},
+  "attributes": {
+    "term": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

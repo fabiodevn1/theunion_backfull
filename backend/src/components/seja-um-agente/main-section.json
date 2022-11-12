@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_seja_um_agente_main_sections",
+  "info": {
+    "displayName": "MainSection",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "banner": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "logo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
